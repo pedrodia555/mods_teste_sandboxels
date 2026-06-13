@@ -4,3 +4,4 @@ elements.pedrium = {
     category: "land",
     state: "solid"
 };
+console.log("está carregando")
