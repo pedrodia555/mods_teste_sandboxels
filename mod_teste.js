@@ -1,7 +1,8 @@
+console.log("MOD TESTE CARREGADO");
+
 elements.pedrium = {
     color: "#00aaff",
     behavior: behaviors.POWDER,
-    category: "land",
+    category: "powders",
     state: "solid"
 };
-console.log("está carregando")
