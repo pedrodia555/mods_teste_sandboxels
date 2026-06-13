@@ -1,4 +1,4 @@
-console.log("MOD TESTE CARREGADO");
+alert("MOD CARREGADO!");
 
 elements.pedrium = {
     color: "#00aaff",
